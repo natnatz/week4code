@@ -1,0 +1,16 @@
+body{width: 600px;
+margin: auto;
+#border: 1px solid red;
+font-family: 'work sans', sans-serif;
+
+}
+
+div{
+    #border:1px solid purple;
+
+}
+
+img{
+
+    width: 100%;
+}
